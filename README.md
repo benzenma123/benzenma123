@@ -34,13 +34,19 @@
 ## 🛠️ Tech Stack 💖
 
 ### OS & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-Main-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white)
+![macOS Catalina](https://img.shields.io/badge/macOS_Catalina-Hackintosh-000000?style=flat-square&logo=Apple&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-Secondary-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-Unix-AB2B28?style=flat-square&logo=FreeBSD&logoColor=white)
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+### DE/WM
+![Hyprland](https://img.shields.io/badge/Hyprland-Tiling_WM-58E1FF?style=flat-square)
+![Wayland](https://img.shields.io/badge/Wayland-Protocol-FFBC00?style=flat-square&logo=Wayland&logoColor=black)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-DE-1D99F3?style=flat-square&logo=KDE&logoColor=white)
+![X11](https://img.shields.io/badge/X11-Legacy-000000?style=flat-square)
 
 ---
 
