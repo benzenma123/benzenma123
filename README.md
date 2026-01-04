@@ -2,7 +2,7 @@
 
 <a href="https://github.com/benzenma123" style="display:flex;align-items:center;">
   <!-- Moe Visitor Counter -->
-  <img src="https://count.getloli.com/@benzenma123?theme=rule34" alt="Moe Counter" height="60" style="margin-right:15px;" />
+  <center><img src="https://count.getloli.com/@benzenma123?theme=rule34" alt="Moe Counter" height="60" style="margin-right:15px;" /></center>
   
   <!-- Kasane Teto GIF -->
   <img src="https://i.redd.it/rq1ddk1unz1g1.gif" alt="Kasane Teto" height="60" />
@@ -47,6 +47,14 @@
 ![Wayland](https://img.shields.io/badge/Wayland-Protocol-FFBC00?style=flat-square&logo=Wayland&logoColor=black)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-DE-1D99F3?style=flat-square&logo=KDE&logoColor=white)
 ![X11](https://img.shields.io/badge/X11-Legacy-000000?style=flat-square)
+### Kernel 🧬
+![Linux Kernel](https://img.shields.io/badge/Linux-6.7.x-FFCC00?style=flat-square&logo=Linux&logoColor=black)
+![FreeBSD Kernel](https://img.shields.io/badge/FreeBSD-14.x-AB2B28?style=flat-square&logo=FreeBSD&logoColor=white)
+### Desktop Preview 🖥️✨
+**Hyprland (Wayland · Arch Linux)**
+![Hyprland Desktop](https://github.com/benzenma123/benzenma123/blob/main/2026-01-03-215049_hyprshot.png?raw=true)
+**Hackintosh (macOS Catalina)**
+![Hackintosh Desktop](https://github.com/benzenma123/EFI-For-ASUS-Zenbook-UX425EA/raw/main/Screen%20Shot%202025-12-23%20at%202.49.05%20PM.png?raw=true)
 
 ---
 
