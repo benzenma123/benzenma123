@@ -5,9 +5,8 @@
   <p align="center">
     <img src="https://count.getloli.com/@benzenma123?theme=rule34" alt="Moe Counter" height="60" style="margin-center:15px;" />
   </p>
-  <!-- Kasane Teto GIF -->
   <img src="https://i.redd.it/rq1ddk1unz1g1.gif" alt="Kasane Teto" height="60" />
-</a>
+ </a>
 
 [![GitHub Stats](https://github-readme-stats-blush-iota-19.vercel.app/api?username=benzenma123&show_icons=true&title_color=FFFFFF&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=FFFFFF&bg_color=50,B2EBF4,BBDFF3,C9DDF1,D4DEF3,DDDEF3,E6DEF3,EBDDF2)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used language](https://github-readme-stats-blush-iota-19.vercel.app/api/top-langs/?username=benzenma123&langs_count=8&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=50,B2EBF4,BBDFF3,C9DDF1,D4DEF3,DDDEF3,E6DEF3,EBDDF2)](https://github.com/anuraghazra/github-readme-stats)
