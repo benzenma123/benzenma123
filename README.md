@@ -51,6 +51,7 @@
 ### Kernel 🧬
 ![Linux Kernel](https://img.shields.io/badge/Linux-6.7.x-FFCC00?style=flat-square&logo=Linux&logoColor=black)
 ![FreeBSD Kernel](https://img.shields.io/badge/FreeBSD-14.x-AB2B28?style=flat-square&logo=FreeBSD&logoColor=white)
+![Darwin Kernel](https://img.shields.io/badge/Darwin-XNU-000000?style=flat-square&logo=Apple&logoColor=white)
 ### Desktop Preview 🖥️✨
 **Hyprland (Wayland · Arch Linux)**
 ![Hyprland Desktop](https://github.com/benzenma123/benzenma123/blob/main/2026-01-03-215049_hyprshot.png?raw=true)
