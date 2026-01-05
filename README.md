@@ -3,7 +3,7 @@
 <a href="https://github.com/benzenma123" style="display:flex;align-items:center;">
   <!-- Moe Visitor Counter -->
   <p align="center">
-    <img src="https://count.getloli.com/@benzenma123?theme=rule34" alt="Moe Counter" height="60" style="margin-right:15px;" />
+    <img src="https://count.getloli.com/@benzenma123?theme=rule34" alt="Moe Counter" height="60" style="margin-center:15px;" />
   </p>
   <!-- Kasane Teto GIF -->
   <img src="https://i.redd.it/rq1ddk1unz1g1.gif" alt="Kasane Teto" height="60" />
