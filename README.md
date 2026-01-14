@@ -60,6 +60,13 @@
 ![Hyprland Desktop](https://github.com/benzenma123/benzenma123/blob/main/2026-01-03-215049_hyprshot.png?raw=true)
 **Hackintosh (macOS Catalina)**
 ![Hackintosh Desktop](https://github.com/benzenma123/EFI-For-ASUS-Zenbook-UX425EA/raw/main/Screen%20Shot%202025-12-23%20at%202.49.05%20PM.png?raw=true)
+## 🗄️ Databases & Security
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square)
+![sqlmap](https://img.shields.io/badge/sqlmap-SQL%20Injection-CC0000?style=flat-square)
+
 
 ---
 
