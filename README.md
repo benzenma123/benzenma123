@@ -12,7 +12,7 @@
 [![Most used language](https://github-readme-stats-blush-iota-19.vercel.app/api/top-langs/?username=benzenma123&langs_count=8&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=50,B2EBF4,BBDFF3,C9DDF1,D4DEF3,DDDEF3,E6DEF3,EBDDF2)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{benzenma123}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/benzenma123"/>
 </a>
 ---
 
