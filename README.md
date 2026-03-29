@@ -32,7 +32,7 @@
 - 💻 l Iike tinkering with Linux, Hackintosh and web dev stuff 
 - 🌸 Currently coding HTML, CSS, JS, Python, and 64-bit ASM  
 - ✨ And yes I do play soccer as a goalie
-- ![FelixArgyleGIF](https://github.com/user-attachments/assets/6de5b8fb-edc1-4712-929b-80346d39a4f1) And i like Felix
+- <img src="https://github.com/user-attachments/assets/6de5b8fb-edc1-4712-929b-80346d39a4f1" height="22"> And I love Felix 
 
 
 
