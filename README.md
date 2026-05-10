@@ -1,4 +1,5 @@
 ## ✨ Ben's GitHub 🌸💖
+#### Note: this hasnt been update for a pretty long time so the info is not too correct but acceptable
 
 <a href="https://github.com/benzenma123" style="display:flex;align-items:center;">
   <!-- Moe Visitor Counter -->
