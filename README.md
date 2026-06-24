@@ -82,6 +82,7 @@
 | About Me Web Fortfolio | Web fortfolio about me that you can check out | HTML, CSS, JS |
 | OS Develop | Making my own OS | C++, ASM64, HolyC |
 | Running AI Locally | Run AI locally on your machine without too many hassle | python 100% |
+| MikuOS | Making a distro Miku-themed | Linux kernel and a big brain |
 
 ---
 
